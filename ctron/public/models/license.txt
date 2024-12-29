@@ -1,0 +1,11 @@
+Model Information:
+* title:	Cleanser Bottle
+* source:	https://sketchfab.com/3d-models/cleanser-bottle-02ab570acdb84b42b84f16306883ce9f
+* author:	Sm1yle (https://sketchfab.com/Sm1yle)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Cleanser Bottle" (https://sketchfab.com/3d-models/cleanser-bottle-02ab570acdb84b42b84f16306883ce9f) by Sm1yle (https://sketchfab.com/Sm1yle) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
