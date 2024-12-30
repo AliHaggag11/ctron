@@ -11,6 +11,7 @@ import { LearnMore } from './pages/LearnMore'
 import { Contact } from './pages/Contact'
 import { Support } from './pages/Support'
 import { Checkout } from './pages/Checkout'
+import { NotFound } from './pages/NotFound'
 
 function App() {
   return (
@@ -33,6 +34,7 @@ function App() {
             <Route path="/contact" element={<Contact />} />
             <Route path="/support" element={<Support />} />
             <Route path="/checkout" element={<Checkout />} />
+            <Route path="*" element={<NotFound />} />
           </Routes>
 
           <Footer />
